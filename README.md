@@ -1,3 +1,4 @@
 # Demo
 This is my first repository
-Author:Diksha Shelewade
+<br>
+<h1>Author:</h1><h2>Diksha Shelewade</h2>
